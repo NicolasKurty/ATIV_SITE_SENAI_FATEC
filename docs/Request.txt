@@ -1,0 +1,11 @@
+Requisitos para o site do petshop
+
+* Agendar horario.
+* Cadastrar o cachorro.
+* Tipo de banho.
+* Fazer a alteração de preço de acordo com o tamanho do cachorro.
+* Cadastrar produtos.
+* Informar a quantidade de produtos disponiveis no estoque.
+* Caso não tiver os produtos informar que esta em falta.
+* Ter o numero e a localização do pet shop.
+* Cadastrar o funcionario responsavel por dar o banho do cachorro.
