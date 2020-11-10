@@ -1,0 +1,38 @@
+
+.imagem {
+    text-align: center;
+    
+}
+
+
+.cabecalho{
+    text-align: center;
+    margin-top: -40px;
+}
+
+.slogan_01 {
+    text-align: center;
+    color: white;
+    font-family: "Arial Narrow";
+}
+
+.slogan {
+
+    text-align: center;
+    color: white;
+    font-family: "Arial Narrow";
+
+} 
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.bg {
+    background-color: rgb(24, 24, 24);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
